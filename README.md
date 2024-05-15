@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">Full stack developer. DAM/DAW/Cibersecurity.</h3>
+<h3 align="center">Full stack junior developer. DAM/DAW/Cibersecurity.</h3>
 
 - 📫 How to reach me **alexnavarrodelatorre1999@gmail.com**
 
